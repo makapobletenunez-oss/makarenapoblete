@@ -6,6 +6,8 @@
 
 *La nota se sitúa a siete meses del inicio del coronavirus en China, donde la incertidumbre sobre una vacuna persistía. Sin embargo, la Organización Mundial de la Salud mantuvo optimismo: se estimaba que las primeras dosis podrían estar listas para finales de 2020, priorizando a los grupos más vulnerables.*
 
+*Lo llamativo de esto es que las vacunas toman años de pruebas para producir a gran a escala, pero los científicos de ese entonces esperaban desarrollar una vacuna contra el coronavirus dentro de 12 a 18 meses.*
+
 
 #### ¿Por qué me pareció interesante?
 
