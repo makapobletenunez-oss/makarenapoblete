@@ -11,9 +11,17 @@
 
 Me pareció interesante más que nada por la infografía que está al final de la nota, porque es muy dinámica y tiene datos muy interesantes. Por su parte, el texto también entrega mucha información, contando de qué manera podría llegar la primera vacuna contra el coronavirus. 
 
+![](imagen1.png)
+![](image.png)
+![](imagen2.png)
+
 #### Efectividad para transmitir información
 
-A mí me habría gustado que la infografía estuviera al principio o al medio, porque creo que es demasiado texto para luego llegar a imágenes tan amenas visualmente. 
+A mí me habría gustado que la infografía estuviera al principio o al medio de la nota, porque creo que es demasiado texto para luego llegar a imágenes tan amenas visualmente. 
 
 
-<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genially.com/resources/loader-default-rebranding.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="5efdff26078cea0d72897bcf" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genially.com/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
+Del texto lo que puedo destacar que hay varios links y muchas frases subrayadas en negritas. Sin embargo, creo que incluso uno o dos párrafos de solo texto junto con la infografái habrían sido suficientes. 
+
+Lo otro, es que tal vez el ilustrador pudo haber jugado un poco más con la imagen de la aguja, es decir, comenzar con la primera lámina tal como está, pero luego pudo haber hecho un zoom a la vacuna en la segunda imagen para contar sobre sus componentes, por ejemplo. 
+
+![](imagentexto.png)
